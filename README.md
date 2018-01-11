@@ -9,4 +9,4 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/jialezi/GoogleV
 ```
 
 
-![](https://i.imgur.com/yQeBxnm.gif)
+![](https://i.imgur.com/UBukzgV.gif)
